@@ -1,0 +1,8 @@
+name: RankSystem
+version: '${project.version}'
+main: me.oyuncozucu.ranksystem.Main
+api-version: 1.16
+commands:
+  rank:
+    permission: rank.admin
+
